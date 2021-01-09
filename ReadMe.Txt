@@ -1,6 +1,8 @@
 Hi Guys, Just wanted to share with you some software i built.
 
-Its a User-Friendly application that uses your API to process batch calls for GeoCoding.
+Its a User-Friendly application that uses The MapQuest API to process batch calls for GeoCoding.
+
+Make sure you head to MapQuest and grab a Free API key. (15,000 requests before you're billed but i wont be responsible for any charges, check carefully before processing in case the plans have changed)
 
 Needs Windows, and an installation of Excel.
 
